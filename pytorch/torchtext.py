@@ -54,3 +54,4 @@ print(
     '\nnumpy',np.conj(data),
     '\ntorch',torch.conj(torch.sin(tensor)),
 )
+#乘法等运算可能不太一样
